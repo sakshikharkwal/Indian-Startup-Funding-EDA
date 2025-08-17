@@ -5,7 +5,7 @@ Exploratory Data Analysis (EDA) on **Indian Startup Funding (2015–2020)** data
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 - **Yearly Funding** – Peak in 2017, lowest in 2020.  
 - **Top Funded Startups** – Flipkart, Rapido Bike Taxi, Paytm, Ola, Udaan.  
 - **Top Cities** – Menlo Park (most funded), followed by California and India/Singapore.  
@@ -16,8 +16,8 @@ Exploratory Data Analysis (EDA) on **Indian Startup Funding (2015–2020)** data
 
 ---
 
-## 📊 Visuals
-Includes:
+## Visuals
+Include:
 - Missing values  
 - Yearly funding trends  
 - Top 10 funded startups  
@@ -31,14 +31,14 @@ Includes:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python (pandas, matplotlib, seaborn, networkx)  
 - Jupyter Notebook  
 - Git & GitHub  
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 ```bash
 git clone https://github.com/sakshikharkwal/Indian-Startup-Funding-EDA.git
 cd Indian-Startup-Funding-EDA
